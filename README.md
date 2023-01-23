@@ -5,6 +5,29 @@ Developer grants are a popular way to incentivise development of decentralised a
 
 Here we provide a template contract for issuing developer grants on Solana. This template can serve as an easy reference and Quickstart for all grants being issued in the Solana ecosystem and beyond, including grants from the Solana Foundation , and various other DAOs and crypto companies.
 
+
+**Transparency & Accountability using Vellum:**
+DAO grants are founded on the premise of fair and transparent disbursal of treasury funds. Token holders like to see where all the funds from the treasury are being spent, and what work output is being achieved via the expenditures. This allows for a rapid and effective feedback loop, allowing DAO treasuries to more efficiently allocate their funds.
+
+Similarly, Developers are taking a big leap of faith when they decide to work for a DAO grant - in some cases in the past, DAOs have failed to pay their developers, despite full, high-quality work being delivered. They sometimes use excuses such as "market conditions" or "hacks", which catch the hard-working developers by surprise. If the whole grant agreement and payment track record of a DAO is visible on chain - that would do wonders for increasing the confidence of developers who are deciding to work full-time under a grant. Moreover, the accountability engendered by such radical transparency, would make a Company wary of ever reneging on their obligations, as the record will be visible for all future developers to see.
+
+Public accountability, via sharing contract links on Twitter, and the permanence of the contract on-chain (they are immutable and un-deletable), further stregnthens the incentives of both parties to mutually co-operate. Such co-operation is essential for the long term growth of various decentralsied ecosystems.
+
+
+**Post Execution Steps**
+In addition to the benefits outlined above, bringing grant agreements on-chain via Vellum allows easy execution of next steps as envisioned in the contract. For example, a multisig can release the payment from the treasury, whenever a developer submits a milestone, and his work has been reviewed. Direct integration with smart contracts will allow the expansion of the effective deal terms between developers and DAOs in the future - for instance, if greater than a certain percentage of DAO members like a particular feature, the developer may be paid a bonus. Such features would be incredibly hard to implement and enforce with traditional agreements, but they become a breeze with on-chain contracts.
+
+Furthermore, in the future, potential dispute resolution via smart contracts (such as Aragon or Kleros Courts) may also be an in-built feature, to further increase the confidence of the counterparties.
+
+**How to use this template**
+
+We provide a simple video demo on how to use Vellum to publish your grant contract on-chain. Note that since Vellum is still in prototype stage, we were unable to actually publish the contract due to some bugs in the website - as seen in the video. However we have no doubt that the team will fix them in no time - and the process would remain the same anyways.
+
+You can find the demo video here:
+
+In this example we use a template Grant contract, which is also available in this repo. Below we highlight some key terms in the contract that you may want to modify, allowing you to bootstrap your own grant agreements and publish them on-chain with minimal effort.
+
+**Legal Terms for Grants**
 To demonstrate our example, we provide a simple example agreement for developing an open-source product in exchange for tokens  - the specific functionalities of such a product are excluded and left up to individual grant creators. We also include the dispute resolution clause, as found on the Solana Foundation website :  - as an example, this can be modified/replaced according to the needs of the grant provider.
 
 Below we provide a breakdown of some key provisions in the agreement, with tips on how they may be modified depending on the use-case for that particular grant:
