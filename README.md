@@ -23,7 +23,7 @@ Furthermore, in the future, potential dispute resolution via smart contracts (su
 
 We provide a simple video demo on how to use Vellum to publish your grant contract on-chain. Note that since Vellum is still in prototype stage, we were unable to actually publish the contract due to some bugs in the website - as seen in the video. However we have no doubt that the team will fix them in no time - and the process would remain the same anyways.
 
-You can find the demo video here:
+You can find the demo video here: https://youtu.be/rES_0XHnvP4 
 
 In this example we use a template Grant contract, which is also available in this repo. Below we highlight some key terms in the contract that you may want to modify, allowing you to bootstrap your own grant agreements and publish them on-chain with minimal effort.
 
