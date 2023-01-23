@@ -1,5 +1,5 @@
-#THE SOLANA FOUNDATION* PUBLIC BENEFIT CORPORATION
-#TOKEN GRANT AGREEMENT
+# THE SOLANA FOUNDATION* PUBLIC BENEFIT CORPORATION
+# TOKEN GRANT AGREEMENT
 
 The person named below in Section I (“Recipient”) has been granted SOL Tokens (the “Tokens”) by The SOL* Foundation Public Benefit Corporation, a Delaware public benefit corporation (“SOL* PBC”), subject to the terms and conditions of this Token Grant Agreement (the “Agreement”). SOL* PBC is a wholly-owned subsidiary of Solana-Demo, Inc. (“SOLINC*”).
 
