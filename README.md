@@ -32,3 +32,15 @@ To demonstrate our example, we provide a simple example agreement for developing
 
 Below we provide a breakdown of some key provisions in the agreement, with tips on how they may be modified depending on the use-case for that particular grant:
 
+"2. Statements of Work. " - This must be included with the contract, and should define the scope of work and the terms of the payments as specifically as possible. In particular, the timeline for the work, and the timeline for review and disbursement of tokens, should be clearly specified. In case of unexpected circumstances, these timelines may be adjusted in the future with mutual consent.
+
+"10. Ownership of Deliverables and Work Product." - By default, the ownership in the work product is with the company providing the token grant. In case of open source work, public goods, or business partnerships, this provision should be changed accordingly.
+
+"14. Rights to Tokens." - In case any portion of tokens are being given in a vested, staked, or otherwise illiquid status, this provision would need to be modified.
+
+"15. Agreement to Terms of Use." - Link to your ToS here is advisable
+
+"16. Independent Contractor." - In most cases this is preferable, however please consult with your advisors on the optimal legal and taxation strategy.
+
+"III. DISPUTE RESOLUTION" - In the future, on-chain dispute resolution and arbitration courts may be included as the first line of dispute resolution, as they are often more convinient when the parties are distributed around the globe.
+
