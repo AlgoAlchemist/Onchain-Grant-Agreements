@@ -1,5 +1,5 @@
 # Onchain-Grant-Agreements
-_Provides templates to apply Vellum on-chain agreements and signatures to the larger developer grants ecosystem._
+_Provides templates and guidance to apply Vellum on-chain agreements and signatures to the larger developer grants ecosystem._
 
 Developer grants are a popular way to incentivise development of decentralised applications on various platforms. For maximum transparency and trust, it is preferable if such grants are signed and executed in public - as this provides accountability, and also allows the community to transparently observe the fair execution of the grants, and the disbursement process. Vellum provides effective infrastructure to bring these grant agreements fully on-chain, and also provides the capabilities to allow on-chain execution of contractual terms - for eg., when developers accomplish promised milestones.
 
